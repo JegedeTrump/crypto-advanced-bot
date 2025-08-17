@@ -1,0 +1,6 @@
+pandas
+numpy
+ta
+requests
+python-telegram-bot
+python-dotenv
